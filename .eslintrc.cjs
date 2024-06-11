@@ -14,5 +14,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'react-hooks/rules-of-hooks': 'warn', // 檢查 Hook 的規則
   },
 }
